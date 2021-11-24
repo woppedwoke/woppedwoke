@@ -1,7 +1,7 @@
-## Hi 👋 i'm visao
+## Hi 👋 i'm WoppedWoke
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src=https://readme-typing-svg.herokuapp.com/?lines=Hi!!;My+name+is+visaooo.;Welcome+to+my+profile!&center=true&size=27>
+    <img src=https://readme-typing-svg.herokuapp.com/?lines=Hi!!;My+name+is+woppedwoke.;Welcome+to+my+profile!&center=true&size=27>
   </a>
 </h1>
 
@@ -19,7 +19,7 @@
                                                                                                                               
 <h2 align="center"> Discord Status: </h2>
 <p align="center">
-<a href="https://discord.com/users/343576532066762754">
+<a href="https://discord.com/channels/718997595246166063/863257566329831505">
   <img height="80px" src="https://discord.c99.nl/widget/theme-3/343576532066762754.png?">
 </a>
 </p>
