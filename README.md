@@ -20,6 +20,6 @@
 <h2 align="center"> Discord Status: </h2>
 <p align="center">
 <a href="https://discord.com/channels/718997595246166063/863257566329831505">
-  <img height="80px" src="https://discord.c99.nl/widget/theme-3/343576532066762754.png?">
+  <img height="80px" src="https://discord.c99.nl/widget/theme-1/_Night#0240.png">
 </a>
 </p>
