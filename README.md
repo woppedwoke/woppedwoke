@@ -15,7 +15,7 @@
     <img align="center" alt="woppedwoke-js" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img align="center" alt="woppedwoke-NodeJS" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
      <img align="center" alt="woppedwoke-NodeJS" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
-  <img align="right" alt="woppedwoke-img" src="https://media.discordapp.net/attachments/567069532913401867/871993898535358524/download20210801164217.png">
+  
 </div>
                                                                                                                               
 <h2 align="center"> Discord Status: </h2>
