@@ -12,9 +12,9 @@
 </div>
   
   <div style="display: inline_block"><br>
-    <img align="center" alt="woppedwoke-js" src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white>
-    <img align="center" alt="woppedwoke-NodeJS" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"
-    <img align="center" alt="woppedwoke-NodeJS" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"
+    <img align="center" alt="woppedwoke-js" src="https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000">
+    <img align="center" alt="woppedwoke-NodeJS" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+     <img align="center" alt="woppedwoke-NodeJS" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
   <img align="right" alt="woppedwoke-img" src="https://media.discordapp.net/attachments/567069532913401867/871993898535358524/download20210801164217.png">
 </div>
                                                                                                                               
