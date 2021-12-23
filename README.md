@@ -12,13 +12,10 @@
 </div>
   
   <div style="display: inline_block"><br>
-    
-    <h2>My Skills</h2>
-    <br>
     <img align="center" alt="woppedwoke-js" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img align="center" alt="woppedwoke-NodeJS" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-    <img align="center" alt="woppedwoke-NodeJS" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
-    <img align="center" alt="woppedwoke-NodeJS" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+    <img align="center" alt="woppedwoke-NodeJS" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    <img align="center" alt="woppedwoke-NodeJS" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center" alt="woppedwoke-NodeJS" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
     
     
   
