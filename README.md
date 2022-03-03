@@ -2,6 +2,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src=https://readme-typing-svg.herokuapp.com/?lines=Hi!!;My+name+is+woppedwoke.;Welcome+to+my+profile!&center=true&size=27>
+    
   </a>
 </h1>
 
@@ -21,7 +22,7 @@
     <img align="center" alt="woppedwoke-NodeJS" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     </p>
     
-    ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+    
 
     
     
@@ -32,5 +33,6 @@
 <p align="center">
 <a href="https://discord.com/users/347418874628800523">
   <img height="80px" src="https://discord.c99.nl/widget/theme-2/347418874628800523.png">
+  
 </a>
 </p>
