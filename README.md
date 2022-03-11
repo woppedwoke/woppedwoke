@@ -26,7 +26,7 @@
   
   ![Snake animation](https://github.com/woppedwoke/woppedwoke/blob/output/github-contribution-grid-snake.svg)
   
-  <img src=""https://myoctocat.com/build-your-octocat/">
+
 </div>
 
     
