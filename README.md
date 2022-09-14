@@ -15,7 +15,7 @@ Hello, I'm a young developer who loves technology, solving problems and learning
 * 🌍  I'm based in Brasil, Chapecó
 * ✉️  You can contact me at [wokesoft@gmail.com](mailto:phhcwokesoft@gmail.com)
 * 🧠  I'm learning more about Javascript
-* 🤝  I'm open to collaborating on interesting projects
+
 
 ### Skills
 
