@@ -16,7 +16,7 @@ I consider myself very good at working as a team, thinking about how to build a 
 I also love teaching what I learn, so if you're interested, you can follow the content i create on Instagram and/or Linkedin.
 
 * 🌍  I'm based in Brasil, Chapecó
-* ✉️  You can contact me at [phhcpedrohhcunha@gmail.com](mailto:phhcpedrohhcunha@gmail.com)
+* ✉️  You can contact me at [wokesoft@gmail.com](mailto:phhcwokesoft@gmail.com)
 * 🧠  I'm learning more about Javascript
 * 🤝  I'm open to collaborating on interesting projects
 
@@ -39,17 +39,17 @@ I also love teaching what I learn, so if you're interested, you can follow the c
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/pedrohhcunha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/pedrohhcunha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/pedrohhcunha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/15302368/pedrohhcunha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UC9mIeYnjCK96KQ-yLm2KCPw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/woppedwoke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/woppedwoke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/woppedwoke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/15302368/woppedwoke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UC9mIeYnjCK96KQ-yLm2KCPw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/pedrohhcunha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrohhcunha&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/woppedwoke"><img src="https://github-readme-streak-stats.herokuapp.com/?user=woppedwoke&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/pedrohhcunha"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/woppedwoke"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
   
   ![Snake animation](https://github.com/woppedwoke/woppedwoke/blob/output/github-contribution-grid-snake.svg)
