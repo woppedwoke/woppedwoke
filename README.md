@@ -10,11 +10,11 @@
  Full Stack Developer
 --------------------
 
-Hello, I'm a young developer who loves technology, solving problems and learning more and more. I consider myself very good at working as a team, thinking about how to build a new project or new functionality. I also love teaching what I learn.
+Hello, I'm a young developer who loves technology and learning more and more. 
 
 * 🌍  I'm based in Brasil, Chapecó
 * ✉️  You can contact me at [wokesoft@gmail.com](mailto:phhcwokesoft@gmail.com)
-* 🧠  I'm learning more about Javascript
+* 🧠  I'm learning more about PHP
 
 
 ### Skills
